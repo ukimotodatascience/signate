@@ -10,8 +10,9 @@
 | 債務不履行リスクの低減     |Biginner限定               | 2023/10/01～2023/10/31 | F1score  | 5位/144人   | 
 | SMBC Group GREEN×DATA Challenge     |一般               | 2023/12/01～2024/01/08 | F1score  | 347位/874人   | 
 | 第2回金融データ活用チャレンジ     |一般               | 2024/01/18～2024/02/15 | F1score  | 334位/1151人   |
-| マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測     |SOTA               | 2024/03/02～2024/04/14 | RMSE  |    |
+| マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測     |SOTA               | 2024/03/02～2024/04/14 | RMSE  |  422位/1089人  |
+| SIGNATE Student Cup 2021秋：オペレーション最適化に向けたシェアサイクルの利用予測     |SOTA               | 2024/06/30～2024/07/27 | RMSE  |  96位/439人  |
 
-2023年10月に参加した「債務不履行リスクの低減」コンペをもって、Biginnerを卒業し、現在はIntermediateというランクになります。
+現在はAdvancedというランクになります。
 
 SIGNATEのプロフィール⇒https://signate.jp/profile
